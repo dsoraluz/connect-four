@@ -26,7 +26,3 @@ this.board = [
   }
 
 }
-
-var newConnectGame = new ConnectFour('Daniel', 'Nizar');
-
-console.log(newConnectGame);
