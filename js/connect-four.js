@@ -1,6 +1,7 @@
 
 //Constructor for connect-four game.
 function ConnectFour(player1Name, player2Name){
+  //6 x 7 array
 this.board = [
   // 0       1     2    3     4     5     6
     [null, null, null, null, null, null, null], //0
